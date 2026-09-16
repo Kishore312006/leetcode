@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Kishore312006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kishore312006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
