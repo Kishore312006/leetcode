@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kishore312006/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
