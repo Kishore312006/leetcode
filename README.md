@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Kishore312006/leetcode/tree/master/0724-find-pivot-index) |
+| [0994-rotting-oranges](https://github.com/Kishore312006/leetcode/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kishore312006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kishore312006/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Kishore312006/leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Kishore312006/leetcode/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kishore312006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Union-Find
 |  |
