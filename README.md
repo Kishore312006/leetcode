@@ -77,9 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kishore312006/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kishore312006/leetcode/tree/master/0009-palindrome-number) |
 ## Design
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kishore312006/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kishore312006/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
