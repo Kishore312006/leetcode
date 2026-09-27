@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kishore312006/leetcode/tree/master/0088-merge-sorted-array) |
 | [0221-maximal-square](https://github.com/Kishore312006/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Kishore312006/leetcode/tree/master/0724-find-pivot-index) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Kishore312006/leetcode/tree/master/0724-find-pivot-index) |
 ## Depth-First Search
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kishore312006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/Kishore312006/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kishore312006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kishore312006/leetcode/tree/master/0009-palindrome-number) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
