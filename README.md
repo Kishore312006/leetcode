@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kishore312006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Kishore312006/leetcode/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/Kishore312006/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Kishore312006/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kishore312006/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kishore312006/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Kishore312006/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kishore312006/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Kishore312006/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Kishore312006/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore312006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Kishore312006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -51,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kishore312006/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Kishore312006/leetcode/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
