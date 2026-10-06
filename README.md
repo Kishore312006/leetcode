@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kishore312006/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kishore312006/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Kishore312006/leetcode/tree/master/0013-roman-to-integer) |
 ## Design
 |  |
 | ------- |
@@ -98,10 +99,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kishore312006/leetcode/tree/master/0013-roman-to-integer) |
 | [0093-restore-ip-addresses](https://github.com/Kishore312006/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Kishore312006/leetcode/tree/master/0097-interleaving-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Kishore312006/leetcode/tree/master/0093-restore-ip-addresses) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Kishore312006/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
